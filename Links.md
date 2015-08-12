@@ -2,6 +2,7 @@
 
 Useful resources that relates to the planning and construction of Libertania.
 
+- [Designing Private Cities, Open to All](http://mobile.nytimes.com/2015/03/17/opinion/designing-private-cities-open-to-all.html)
 - [Taking the Guesswork out of Designing for Walkability](http://www.planetizen.com/node/63248)
 - [How would you design a perfect new city from scratch?](http://www.quora.com/How-would-you-design-a-perfect-new-city-from-scratch)
 - [I would design a living experimental fractal city](http://www.quora.com/How-would-you-design-a-perfect-new-city-from-scratch/answers/3103184)  
